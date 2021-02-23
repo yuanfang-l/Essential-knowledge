@@ -1,34 +1,34 @@
 # 1.super  和  this
 
-![image-20200827224525500](.\typora-user-images\image-20200827224525500.png)
+![image-20200827224525500](./typora-user-images/image-20200827224525500.png)
 
 # 2.重写
 
 > 有static方法
 
-![image-20200827225707266](.\typora-user-images\image-20200827225707266.png)
+![image-20200827225707266](./typora-user-images/image-20200827225707266.png)
 
 
 
 > 普通方法
 
-![image-20200827225501548](.\typora-user-images\image-20200827225501548.png)
+![image-20200827225501548](./typora-user-images/image-20200827225501548.png)
 
-![image-20200827225418086](.\typora-user-images\image-20200827225418086.png)
+![image-20200827225418086](./typora-user-images/image-20200827225418086.png)
 
 # 3.多态
 
-![image-20200827230751536](.\typora-user-images\image-20200827230751536.png)
+![image-20200827230751536](./typora-user-images/image-20200827230751536.png)
 
-![image-20200828215432921](.\typora-user-images\image-20200828215432921.png)
+![image-20200828215432921](./typora-user-images/image-20200828215432921.png)
 
 # 4.抽象类
 
-![image-20200828220849884](.\typora-user-images\image-20200828220849884.png)
+![image-20200828220849884](./typora-user-images/image-20200828220849884.png)
 
 # 5.接口
 
-![image-20200828221807354](.\typora-user-images\image-20200828221807354.png)
+![image-20200828221807354](./typora-user-images/image-20200828221807354.png)
 
 # 6.集合
 
@@ -36,13 +36,13 @@
 
 ### （1）
 
-![image-20200828223919312](.\typora-user-images\image-20200828223919312.png)
+![image-20200828223919312](./typora-user-images/image-20200828223919312.png)
 
 
 
 
 
-![image-20200903222206477](.\typora-user-images\image-20200903222206477.png)
+![image-20200903222206477](./typora-user-images/image-20200903222206477.png)
 
 
 
@@ -50,7 +50,7 @@
 
 
 
-![image-20200903223610941](.\typora-user-images\image-20200903223610941.png)
+![image-20200903223610941](./typora-user-images/image-20200903223610941.png)
 
 
 
@@ -58,35 +58,35 @@
 
 
 
-![image-20200903224252139](.\typora-user-images\image-20200903224252139.png)
+![image-20200903224252139](./typora-user-images/image-20200903224252139.png)
 
 
 
-<img src=".\typora-user-images\image-20200903225607266.png" alt="image-20200903225607266" style="zoom: 67%;" />
+<img src="./typora-user-images/image-20200903225607266.png" alt="image-20200903225607266" style="zoom: 67%;" />
 
-![image-20200903225318436](.\typora-user-images\image-20200903225318436.png)
+![image-20200903225318436](./typora-user-images/image-20200903225318436.png)
 
 ### （3）Map相关结构图
 
-<img src=".\typora-user-images\image-20200903230235975.png" alt="image-20200903230235975" style="zoom:67%;" />
+<img src="./typora-user-images/image-20200903230235975.png" alt="image-20200903230235975" style="zoom:67%;" />
 
-<img src=".\typora-user-images\image-20200903230756631.png" alt="image-20200903230756631" style="zoom:80%;" />
+<img src="./typora-user-images/image-20200903230756631.png" alt="image-20200903230756631" style="zoom:80%;" />
 
-<img src=".\typora-user-images\image-20200903230827542.png" alt="image-20200903230827542" style="zoom: 80%;" />
+<img src="./typora-user-images/image-20200903230827542.png" alt="image-20200903230827542" style="zoom: 80%;" />
 
 ### （4）小结
 
 #### 1.Collection
 
-![image-20200903231343101](.\typora-user-images\image-20200903231343101.png)
+![image-20200903231343101](./typora-user-images/image-20200903231343101.png)
 
 ![image-20200903231357168](C:\Users\liuyixing\AppData\Roaming\Typora\typora-user-images\image-20200903231357168.png)
 
 ### 2.Map
 
-![image-20200903231741011](.\typora-user-images\image-20200903231741011.png)
+![image-20200903231741011](./typora-user-images/image-20200903231741011.png)
 
-![image-20200903231845738](.\typora-user-images\image-20200903231845738.png)
+![image-20200903231845738](./typora-user-images/image-20200903231845738.png)
 
 **Map集合的key,就是一一个Set集合。**
 **往Set集合中放数据，实际上放到了Map集合的key部分**。
@@ -136,7 +136,7 @@ Object[] objects = c.toArray();//转化为数组
 
 ArrayList与HashSet的区别
 
-![image-20200904224321003](.\typora-user-images\image-20200904224321003.png)
+![image-20200904224321003](./typora-user-images/image-20200904224321003.png)
 
 > 调用 contains（）方法时 注意：
 
@@ -160,7 +160,7 @@ ArrayList与HashSet的区别
 
 ### 3.迭代器相关约束
 
-![image-20200906164939583](.\typora-user-images\image-20200906164939583.png)
+![image-20200906164939583](./typora-user-images/image-20200906164939583.png)
 
 > 改变结构时必须重新获取迭代器！！！
 
@@ -254,7 +254,7 @@ ArrayList与HashSet的区别
 
 
 
-<img src=".\typora-user-images\image-20200909220442864.png" alt="image-20200909220442864" style="zoom:67%;" />
+<img src="./typora-user-images/image-20200909220442864.png" alt="image-20200909220442864" style="zoom:67%;" />
 
 
 
@@ -421,7 +421,7 @@ public class HashMap {
 1.HashMap底层数据结构：
       一维数组与单向链表的结合
 
-​		![image-20200915232108500](.\typora-user-images\image-20200915232108500.png)
+​		![image-20200915232108500](./typora-user-images/image-20200915232108500.png)
 
 
 
@@ -466,7 +466,7 @@ v = map.get(k)实现原理∶
 
 
 
-![image-20200916211545592](.\typora-user-images\image-20200916211545592.png)
+![image-20200916211545592](./typora-user-images/image-20200916211545592.png)
 
 #### 6.3.3
 
