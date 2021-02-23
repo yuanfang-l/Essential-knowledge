@@ -6,9 +6,9 @@
 
 >Lock接口
 
-![image-20200823224418967](C:\Users\liuyixing\AppData\Roaming\Typora\typora-user-images\image-20200823224418967.png)
+![image-20200823224418967](.\typora-user-images\image-20200823224418967.png)
 
-![image-20200823224515147](C:\Users\liuyixing\AppData\Roaming\Typora\typora-user-images\image-20200823224515147.png)
+![image-20200823224515147](.\typora-user-images\image-20200823224515147.png)
 
 公平锁：十分公平，可以先来后到；
 **非公平锁：十分不公平，可以插队（默认）；**
@@ -73,7 +73,7 @@ class Data{
 
 
 
-![image-20200824212947807](C:\Users\liuyixing\AppData\Roaming\Typora\typora-user-images\image-20200824212947807.png)
+![image-20200824212947807](.\typora-user-images\image-20200824212947807.png)
 
 **if改为while**
 
@@ -112,9 +112,9 @@ class Data{
 
 通过Lock找到Condition
 
-![image-20200824213744127](C:\Users\liuyixing\AppData\Roaming\Typora\typora-user-images\image-20200824213744127.png)
+![image-20200824213744127](.\typora-user-images\image-20200824213744127.png)
 
-![image-20200824213958697](C:\Users\liuyixing\AppData\Roaming\Typora\typora-user-images\image-20200824213958697.png)
+![image-20200824213958697](.\typora-user-images\image-20200824213958697.png)
 
 代码实现 
 
